@@ -4,13 +4,13 @@ A centralized industrial web application designed for **Bharat Dynamics Limited 
 
 ---
 
-## 🚀 Live Deployment
+##  Live Deployment
 
 🔗 https://bdl-integrated-calibration-maintenance-management-b8oqj0z7o.vercel.app
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This system provides a unified platform for managing industrial assets and maintenance operations across departments.
 
@@ -26,13 +26,13 @@ The goal is to eliminate fragmented tracking systems and enable a **single-sourc
 
 ---
 
-## 🏭 Core Modules
+## Core Modules
 
 ### 1. Dashboard (Central Monitoring System)
 
 The dashboard serves as the operational control center, providing visibility into all assets and their maintenance status.
 
-#### 🔹 Master List (Asset Registry)
+####  Master List (Asset Registry)
 
 A unified repository of all industrial assets including machines, instruments, and gauges.
 
@@ -45,7 +45,7 @@ Key capabilities:
 
 ---
 
-#### 🔹 Due List (Maintenance & Calibration Tracker)
+####  Due List (Maintenance & Calibration Tracker)
 
 Tracks all upcoming, pending, and overdue calibration and maintenance activities.
 
@@ -94,7 +94,7 @@ Functionalities:
 
 ---
 
-## 📊 Key Functional Highlights
+##  Key Functional Highlights
 
 - Unified operational dashboard for all maintenance activities  
 - Real-time due tracking and status visibility  
@@ -105,7 +105,7 @@ Functionalities:
 
 ---
 
-## 🧠 System Design Philosophy
+##  System Design Philosophy
 
 The system is designed to replicate real-world industrial maintenance environments where:
 
@@ -117,7 +117,7 @@ The system is designed to replicate real-world industrial maintenance environmen
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - React (Vite)
 - JavaScript (ES6+)
@@ -127,7 +127,7 @@ The system is designed to replicate real-world industrial maintenance environmen
 
 ---
 
-## 🎯 Industrial Relevance & Impact
+##  Industrial Relevance & Impact
 
 This system addresses key challenges in industrial maintenance operations:
 
@@ -139,7 +139,7 @@ This system addresses key challenges in industrial maintenance operations:
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - Role-based authentication system  
 - Backend database integration (MongoDB / SQL)  
@@ -149,7 +149,7 @@ This system addresses key challenges in industrial maintenance operations:
 
 ---
 
-## 👨‍💻 Developed For
+##  Developed For
 
 **Bharat Dynamics Limited (BDL)**  
 Internship Project – Integrated Calibration & Maintenance Workflow Optimization System
